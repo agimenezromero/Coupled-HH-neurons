@@ -9,24 +9,24 @@ Some results are shown below.
 
 ## Unidirectional excitatory coupling
 
-![Membrane voltage as a function of time](Figures/unidirectional_excitatory.png)
+![Membrane voltage as a function of time 1](Figures/unidirectional_excitatory.png)
 
 ## Unidirectional inhibitory coupling
 
-![Membrane voltage as a function of time](Figures/unidirectional_inhibitory.png)
+![Membrane voltage as a function of time 2](Figures/unidirectional_inhibitory.png)
 
 ## Mutual excitatory coupling
 
 
-![Membrane voltage as a function of time](Figures/mutually_excitatory.png)
+![Membrane voltage as a function of time 3](Figures/mutually_excitatory.png)
 
 ## Mutual inhibitory coupling
 
 
-![Membrane voltage as a function of time](Figures/mutually_inhibitory.png)
+![Membrane voltage as a function of time 4](Figures/mutually_inhibitory.png)
 
 ## Mutual excitatory-inhibitory coupling
 
 
-![Membrane voltage as a function of time](Figures/mutually_excitatory_inhibitory.png)
+![Membrane voltage as a function of time 5](Figures/mutually_excitatory_inhibitory.png)
 
